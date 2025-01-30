@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Matias / unsimpleDev ✨ </h1> 
 
-<!--
-**MatiasFlores28/MatiasFlores28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href= "https://www.linkedin.com/in/matiflores/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="matiflores"/></a>
+<a href = "mailto:floresmatias641@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@matiflores"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 ESTUDIANTE DE SISTEMAS "UNIVERSIDAD GENERAL SARMIENTO"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 En la busqueda de mi primer empleo
+
+📝 roles en el ámbito: diseñador,programador ☺️
+
+📫 Contacto: **floresmatias641@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,git,github,eclipse,vscode,perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
